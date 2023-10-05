@@ -1,4 +1,4 @@
-![logo](https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif)
+![logo](https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
  <img align="right" alt="Coding" width="400" src="https://github.com/MuhammadAshraf23/MuhammadAshraf23/blob/main/ashraf.jpg?raw=true">
