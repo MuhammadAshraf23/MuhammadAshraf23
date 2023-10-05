@@ -1,4 +1,4 @@
-![logo](https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![logo](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
  <img align="right" alt="Coding" width="400" src="https://github.com/MuhammadAshraf23/MuhammadAshraf23/blob/main/ashraf.jpg?raw=true">
