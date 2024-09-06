@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **Node.js,MongoDb**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [[https://ashrafz-portfolio23.netlify.app](https://ashrafz-portforlio.netlify.app/)/]
 
