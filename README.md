@@ -35,4 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadashraf23&show_icons=true&locale=en" alt="muhammadashraf23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadashraf23&" alt="muhammadashraf23" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadAshraf23)
+## 🏆 LeetCode Stats
+<p>
+  <img align="center" src="https://leetcard.jacoblin.cool/muhammadashraf23" alt="LeetCode Stats" />
+</p>
