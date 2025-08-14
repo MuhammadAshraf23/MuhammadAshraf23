@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhammadashraf.vercel.app/](https://muhammadashraf.vercel.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **muhammadashraf2921323@gmail.com**
 
